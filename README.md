@@ -8,11 +8,11 @@ A job-shop accounting system is part of an organization that manufactures specia
  
 A customer has a unique name and an address.  A customer can order several assemblies.  Each assembly is identified by a unique assembly-id, and has a date-ordered, and assemblydetails.   To manufacture assemblies, the organization contains a number of processes, each of which is identified by a unique process-id and is supervised by one department.  Each department has its own department number and department-data.  Each process also has process-data.  Processes are classified into three types: paint, fit, and cut.  The following information is kept about each type of process:
 
-*Fit: fit-type
+* Fit: fit-type
 
-*Paint: paint-type, painting-method
+* Paint: paint-type, painting-method
 
-*Cut: cutting-type, machine-type
+* Cut: cutting-type, machine-type
 
 During manufacture an assembly can pass through any sequence of processes in any order; it may pass through the same process more than once. 
  
