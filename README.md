@@ -1,5 +1,5 @@
-# CS-4513-JobShopAccounting
-Command line Java program that runs queries in an Oracle DB. (Fall 2015)
+# DBMS CS 4513 JobShopAccounting (Fall 2015)
+Command line Java program that runs queries in an Oracle DB. 
 
 
 ## DESCRIPTION
@@ -81,13 +81,13 @@ On-line queries and their frequencies for the job-shop accounting system:
 ## Screenshots
 
 #### Welcome
-![Welcome screen](screen1.png)
+![Welcome screen](screenshots/screen1.png)
 
 #### Query 1
-![Query 1](screen2.png)
+![Query 1](screenshots/screen2.png)
 
 #### Query 2
-![Query 2](screen3.png)
+![Query 2](screenshots/screen3.png)
 
 #### Query 3
-![Query 3](screen4.png)
+![Query 3](screenshots/screen4.png)
